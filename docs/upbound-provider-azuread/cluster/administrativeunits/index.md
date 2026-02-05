@@ -1,0 +1,9 @@
+---
+permalink: /upbound-provider-azuread/cluster/administrativeunits/
+---
+
+# administrativeunits
+
+
+
+* [v1beta1](v1beta1/index.md)
